@@ -1,0 +1,10 @@
+{
+  "label": "Interview Preparation",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/interview",
+    "title": "Practical AI and ML Interview Preparation",
+    "description": "Study from foundations to advanced: programming and data, statistics and modelling, AI systems, evaluation and production, then coding labs and mock interviews. Includes 400 practical questions across 10 topics plus foundation banks, source evidence, code, diagrams and summaries."
+  }
+}
